@@ -1,5 +1,5 @@
 # I am
-- 🔍 A Business Analytics professional with more than 2 years of Data Analytics experience.
+- 🔍 A Business Analytics professional with more than 3 years of Data Analytics experience.
 - 🎯 Passionate about Customer and Behavioral Analytics, particularly customer behaviour and customer acquisition, and am interested to work on strategic projects to create business value for organizations.
 - 🎓 Currently pursuing a Master of Management in Analytics degree at McGill University, where I am mastering my programming, statistics, and business strategy skills.
 - 👩‍💻 Proficient in SQL, Python, and R. I am currently learning and honing data analytics techniques such as machine learning, predictive modeling, and artificial intelligence.
